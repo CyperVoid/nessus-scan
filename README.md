@@ -48,4 +48,3 @@ This repository contains a clean and organized version of your Nessus scan task 
 -  Implement strict firewall rules to reduce unnecessary exposure.
 ---
 
-If you want, I can also generate the `smb-signing.md` file directly in this repo or add more files like screenshots, report folder, or a PDF summary.
