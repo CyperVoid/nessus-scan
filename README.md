@@ -42,10 +42,10 @@ This repository contains a clean and organized version of your Nessus scan task 
 ---
 
 ##  5. Simple Fixes / Remediation
-- ✅ Enable SMB signing through Windows Group Policy.
-- 🔄 Regularly apply Windows updates and security patches.
-- 🚫 Disable legacy/unused services (e.g., SMBv1, NetBIOS).
-- 🔐 Implement strict firewall rules to reduce unnecessary exposure.
+-  Enable SMB signing through Windows Group Policy.
+-  Regularly apply Windows updates and security patches.
+-  Disable legacy/unused services (e.g., SMBv1, NetBIOS).
+-  Implement strict firewall rules to reduce unnecessary exposure.
 ---
 
 If you want, I can also generate the `smb-signing.md` file directly in this repo or add more files like screenshots, report folder, or a PDF summary.
